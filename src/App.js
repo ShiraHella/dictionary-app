@@ -10,7 +10,7 @@ function App() {
 
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="purple" />
         </main>
         <footer className="App-footer"><small>Coded by Shira and is <a href="https://github.com/ShiraHella/dictionary-app">open source</a>.</small></footer>
       </div>
